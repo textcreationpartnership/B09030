@@ -1,0 +1,674 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anno Regni Caroli II regis Angliæ, Scotiæ, Franciæ &amp; Hiberniæ, vicesimo secundo &amp; vicesimo tertio at the Parliament begun at Westminster the eighth day of May, Anno Dom. 1661. In the thirteenth year of the regin of our most gracious sovereign Lord Charles by the grace of God, of England, Scotland, France and Ireland King, defender of the faith, &amp;c., and there continued by several prorogations, to the fourteenth day of February 1669/70, and thence continued to the 22th of April 1671 on which day the said Parliament was prorogued to the 16th day of April which shall be in the year 1672.</title>
+            <author>England and Wales. Laws, statutes, etc.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09030</idno>
+            <idno type="STC">Wing E1120A</idno>
+            <idno type="STC">ESTC R175040</idno>
+            <idno type="EEBO-CITATION">62369208</idno>
+            <idno type="OCLC">ocm 62369208</idno>
+            <idno type="VID">187888</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09030)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187888)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2848:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Anno Regni Caroli II regis Angliæ, Scotiæ, Franciæ &amp; Hiberniæ, vicesimo secundo &amp; vicesimo tertio at the Parliament begun at Westminster the eighth day of May, Anno Dom. 1661. In the thirteenth year of the regin of our most gracious sovereign Lord Charles by the grace of God, of England, Scotland, France and Ireland King, defender of the faith, &amp;c., and there continued by several prorogations, to the fourteenth day of February 1669/70, and thence continued to the 22th of April 1671 on which day the said Parliament was prorogued to the 16th day of April which shall be in the year 1672.</title>
+                  <author>England and Wales. Laws, statutes, etc.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Charles Bill and Thomas Newcomb,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXC. [1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title vignette: royal coat of arms.</note>
+                  <note>Text in black letter.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Debt relief --  Great Britain --  Law and legislation --  Early works to 1800.</term>
+               <term>Debt, imprisonment for --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1660-1714 --  Sources.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:187888:1"/>
+            <p>Anno Regni CAROLI II. REGIS. <hi>Angliae, Scotiae, Franciae &amp;
+Hiberniae,</hi> Viceſimo ſecundo &amp; viceſimo tertio</p>
+            <p>At the Parliament begun at <hi>Weſtminſter</hi> the Eighth day
+of <hi>May, Anno Dom.</hi> 1661. In the Thirteenth Year of the Reign of our
+moſt Gracious Sovereign Lord <hi>Charles,</hi> by the Grace of God, of
+<hi>England, Scotland, France</hi> and <hi>Ireland</hi> King, Defender of the
+Faith, <hi>&amp;c.</hi>
+            </p>
+            <p>And there continued by ſeveral Prorogations, to the Fourteenth
+day of <hi>February,</hi> 1669/70.</p>
+            <p>And thence continued to the 22th of <hi>April</hi> 1671. On which
+day the ſaid Parliament was Prorogued to the 16th day of <hi>April</hi> which
+ſhall be in the year 1672.</p>
+            <figure>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+               <figDesc>royal English blazon or coat of arms</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Charles Bill</hi> and <hi>Thomas
+Newcomb,</hi> Printers to the King and Queens moſt Excellent Majeſties.
+MDCXC.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Act_of_Parliament">
+            <div type="Act">
+               <pb facs="tcp:187888:2"/>
+               <pb n="3" facs="tcp:187888:2"/>
+               <head>Anno XXII &amp; XXIII. CAROLI II. REGIS. An Act for the Relief and Releaſe of Poor Diſtreſſed
+Priſoners for Debt.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>Oraſmuch as very many Perſons now Detained in Priſon,
+are miſerably Impoveriſhed, either by reaſon of the late unhappy Times,
+the ſad and dreadful Fire, their own Misfortunes, or other<g ref="char:EOLhyphen"/>wiſe, ſo as
+they are totally diſabled to give any Satisfaction to their Creditors, and
+ſo become, without Advantage to any, a Charge and Bur<g ref="char:EOLhyphen"/>then to the Kingdom,
+and by Noiſomneſs (inſe<g ref="char:EOLhyphen"/>parably incident to extream Poverty) may be<g ref="char:EOLhyphen"/>come
+the occaſion of Peſtilence and Contagious Diſeaſes, to the great
+Prejudice of the Kingdom; Be it therefore En<g ref="char:EOLhyphen"/>acted by the Kings moſt
+Excellent Majeſty, by and with the Advice and Conſent of the Lords
+Spiritual and Temporal, and the Com<g ref="char:EOLhyphen"/>mons in this preſent Parliament
+Aſſembled, and by the Authority of the ſame, That it ſhall and may be
+lawful to and for any Iuſtice of the Peace of any County, City, Town or
+Liberty within the King<g ref="char:EOLhyphen"/>dom of <hi>England,</hi> Dominion of <hi>Wales,</hi> or
+Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> by Warrant under his Hand and
+Seal, to require the Sheriff, Goal<g ref="char:EOLhyphen"/>er, or Keeper of any Priſon within his
+reſpective Iurisdiction, to bring without delay, the Body of any Perſon,
+being in Priſon for Debt on the Fourteenth day of <hi>April,</hi> One
+thouſand ſix hundred ſeven<g ref="char:EOLhyphen"/>ty and one, or Damages (and Petitioning ſuch
+Iuſtice to be Diſchar<g ref="char:EOLhyphen"/>ged) to ſome convenient Place within the diſtance
+of One mile from the ſaid Priſon, and ſhall certifie the Cauſe and
+Cauſes of the Im<g ref="char:EOLhyphen"/>priſonment, before the ſame Iuſtice; Which Warrant
+every ſuch Sheriff, Goaler and Keeper is hereby commanded to obey.</p>
+               <p>And in caſe ſuch Priſoner coming before ſuch Iuſtice,
+ſhall take an Oath to this effect; <hi>(Viz.)</hi>
+               </p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="oath">
+                           <p>
+                              <hi>I <hi>A. B.</hi> do upon my Corporal Oath Solemnly
+Profeſs and Declare before Al<g ref="char:EOLhyphen"/>mighty God, That I have not any Eſtate Real
+or Perſonal, in Poſſeſſion, Rever<g ref="char:EOLhyphen"/>ſion, or Remainder, of the Value
+of Ten pounds in the whole, or ſufficient to pay the Debt or Damages for
+which I am Impriſoned; And that I have not directly, or indirectly Sold,
+Leaſed, or otherwiſe Conveyed, Diſpoſed of, or Entruſted all or any
+Part of my Eſtate, thereby to Secure the ſame, to receive or expect any
+Profit or Advantage thereof, or Defraud or Deceive any Creditor or Creditors
+whatſoever, to whom I ſtand Indebted.</hi>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>Then after the taking of ſuch Oath, the ſaid Iuſtice
+ſhall Remand the Priſoner to Priſon, and ſhall give a Certificate there
+of in Wri<g ref="char:EOLhyphen"/>ting under his Hand and Seal, to the ſame Priſoner, to be
+ſerved up<g ref="char:EOLhyphen"/>on ſuch Perſon or Perſons, his, or her Executors or
+Adminiſtrators, <pb n="4" facs="tcp:187888:3"/>or to be left at the place of the uſual
+abode of ſuch Perſon or Per<g ref="char:EOLhyphen"/>ſons at whoſe Suit the Priſoner
+ſtandeth Charged and Impriſoned, thereby appointing as well the ſaid
+Perſon or Perſons, as the ſaid Priſoner, to appear before the
+Iuſtices at the next General Quar<g ref="char:EOLhyphen"/>ter Seſſions of the Peace to be holden
+for the ſame County, City, Town, or Liberty; When if it ſhall appear upon
+Oath (which Oath the ſaid Iuſtices are Impowered to Adminiſter) that the
+ſaid Certifi<g ref="char:EOLhyphen"/>cate was ſo ſerved or left Fourty days or more before the
+ſaid Seſſi<g ref="char:EOLhyphen"/>ons; And that the ſaid Oath taken by the ſaid Priſoner,
+be not diſpro<g ref="char:EOLhyphen"/>ved by good Teſtimony of any credible Perſon or Perſons
+upon Oath, to be adminiſtred by the ſaid Iuſtices, by virtue of this Act;
+Then the ſaid Iuſtices being ſatisfied therein, ſhall direct there
+War<g ref="char:EOLhyphen"/>rant under their Hands and Seals, commanding the ſaid Sheriff, Goaler, or
+Keeper of the Priſon, to ſet at Liberty, and Diſcharge the ſaid
+Priſoner, if Impriſoned for the Cauſes aforeſaid, and no o<g ref="char:EOLhyphen"/>ther,
+without paying any thing for Fee, or Chamber-Rent; which Warrant ſhall be a
+ſufficient Diſcharge to the ſame Sheriff, Goaler or Keeper of Priſon,
+and no Action of Eſcape, or other Action, ſhall be brought againſt them,
+or any of them, for the ſame in any wiſe.</p>
+               <p>Provided alſo, and be it Enacted by the Authority aforeſaid,
+Tha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> when ſuch Priſoner
+or Priſoners for Debt ſhall have Legally taken the ſaid Oath in this Act
+propoſed to be taken, and ſhall have duly Summoned his or their Creditor or
+Creditors; And after the ſaid Fourty days time, if the ſaid Creditor or
+Creditors ſhall make no Diſcovery of his, her, or their Eſtates, nor
+diſprove nor detect the ſaid Priſoner or Priſoners of Forſwearing
+themſelves; That then if ſuch Creditor or Creditors will not be ſatisfied
+therewith, (that the ſaid Priſoner or Priſoners may be ſet at Liberty)
+or will inſiſt to have the ſaid Priſoner continued in Goal, That then
+the ſaid Cre<g ref="char:EOLhyphen"/>ditor or Creditors ſhall at his and their own proper Coſts
+and Char<g ref="char:EOLhyphen"/>ges, allow and pay Weekly a reaſonable Maintenance to the ſaid
+Priſoner or Priſoners, ſuch as the ſaid Commiſſioners of the Peace,
+or any Three of them, in their reſpective Diviſions, ſhall order and
+appoint, not exceeding Eighteen pence a Week; and upon Nonpay<g ref="char:EOLhyphen"/>ment of the
+ſame Weekly the ſaid Priſoner or Priſoners ſhall be ſet at Liberty,
+according to the true intent and meaning of this Act.</p>
+               <p>And be it further Enacted by the Authority aforeſaid, That
+upon a<g ref="char:EOLhyphen"/>ny Action of Eſcape, or other Suit, brought or to be brought againſt
+any Sheriff, Goaler or Keeper of any ſuch Priſon, or other Officer or
+Perſon, for any thing done in Obedience to this Act, it ſhall and may be
+lawful to and forſuch Sheriff, Goaler or Keeper of Priſon, or o<g ref="char:EOLhyphen"/>ther
+Officer or Perſon, to Plead the General Iſſue, and give this Act in
+Evidence, which ſhall be a good and ſufficient Diſcharge, and ſhall
+ſave harmleſs every ſuch Sheriff, Goaler or Keeper of Priſon Plead<g ref="char:EOLhyphen"/>ing
+the ſame; And if the Plaintiff in any ſuch Action ſhall be Nonſuit<g ref="char:EOLhyphen"/>ed,
+or Verdict paſs againſt him, the Defendant ſhall have double Coſts, to
+be Taxed by the Court where ſuch Action ſhall be brought.</p>
+               <p>Provided always, and be it further Enacted by the Authority
+afore<g ref="char:EOLhyphen"/>ſaid, That notwithſtanding the Diſcharge of the Perſon of ſuch
+Priſo<g ref="char:EOLhyphen"/>ner, as aforeſaid, upon taking the Oath aforeſaid, all and every
+Iudg<g ref="char:EOLhyphen"/>ment had and taken againſt him or her, ſhall be, and ſtand good and
+eff<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctual in the Law, to all
+intents and purpoſes againſt the Lands, Tenements, Hereditaments, Goods and
+Chattels only of the ſaid Priſoner ſo Diſcharged as aforeſaid; And it
+ſhall and may be lawful to and for ſuch Creditor of ſuch Priſoner or
+Priſoners ſo Diſcharged <pb n="5" facs="tcp:187888:3"/>as aforeſaid, his Executors,
+Adminiſtrators or Aſſigns, to take out any new Execution againſt the
+Lands, Tenements, Hereditaments, Goods and Chattels of ſuch Priſoner or
+Priſoners (his or her wear<g ref="char:EOLhyphen"/>ing Apparel, Bedding for him and his or her
+Family, and Tools ne<g ref="char:EOLhyphen"/>ceſſary for his or her Trade and Occupation only
+excepted) for the ſatisfaction of his or their ſaid Debt, in ſuch ſort,
+manner and form, as he or they might have done, if the perſon or perſons of
+ſuch Priſo<g ref="char:EOLhyphen"/>ner or Priſoners had never been taken in Execution; Any Act,
+Sta<g ref="char:EOLhyphen"/>tute or Cuſtom to the contrary notwithſtanding.</p>
+               <p>Provided alſo, and be it further Enacted by the Authority
+aforeſaid, That if at any time after the taking of the ſaid Oath, the
+ſaid Priſo<g ref="char:EOLhyphen"/>ner or Priſoners, ſhall upon any Indictment or Indictments,
+or by his or their own Confeſſion, or Verdict of Twelve Men, be Convicted
+of Falſe Swearing in any Point or Article contained in the ſaid Oath, as he
+or they ſhall or may be by force of this Act, Then ſuch Priſoner or
+Priſoners ſo Convicted as aforeſaid, ſhall ſuffer all ſuch Pains
+and Forfeitures, as by the Statute of <hi>Quinto</hi> of Queen
+<hi>Elizabeth,</hi> are to be inflicted upon any perſon Convicted of wilful
+Perjury. And alſo the Court by Proceſs out of which the Priſoner was
+Impriſoned, ſhall Award a <hi>Capias ad ſatisfaciendum infinite,</hi> or
+other Proceſs, directed to any Sheriff or Sheriffs, for the Apprehending of
+the ſaid Priſoner, and upon Return of <hi>Cepi Corpus,</hi> ſhall remand
+the ſaid Prſoner into the Priſon whence he or ſhe was diſmiſſed,
+there to remain in Execu<g ref="char:EOLhyphen"/>tion, in ſuch manner and condition as he or ſhe
+was before his or her ſaid Enlargement; And then and from thenceforth he or
+ſhe ſhall be adjudged to be in Execution fully, as if he or ſhe had never
+been diſ<g ref="char:EOLhyphen"/>charged thereof; And the Execution and Executions upon his or her
+Lands, Tenements, Hereditaments, Goods and Chattels, if any ſuch happen to
+be, after his or her ſaid Diſcharge out of Priſon, and before he or ſhe
+ſhall be Remanded, ſhall ſtand alſo good and effectual in Law; Any Act,
+Statute, or Cuſtom to the contrary notwithſtanding.</p>
+               <p>Provided, and be it Enacted by the Authority aforeſaid, That
+in caſe any Sheriff, Goaler or Keeper of Priſon, ſhall refuſe or delay
+to Bring, or Diſcharge or ſet at Liberty any Priſoner according to the
+Order of the Iuſtice or Iuſtices, to be made in manner as aforeſaid,
+Every ſuch Sheriff, Goaler or Keeper of Priſon, ſhall forfeit and pay to
+ſuch Priſoner detained contrary to ſuch Order, the Sum of One hundred
+pounds, to be Recovered by Action of Debt in any Court of Record, and ſhall
+be alſo ſubject to any Fine and Puniſhment, as the ſaid Iuſtices
+ſhall Order or Award.</p>
+               <p>And whereas it is found by common experience, That ſuch
+perſon or perſons that are under Arreſts, or committed to the Cuſtody
+of Sheriffs, Bayliffs, Goalers, Keepers of Priſons or Goals, are much
+abuſed and wronged by extorting of great Fees, Rewards, and other Exactions,
+and put to great Expences under pretences of favour, or otherwiſe, whereby
+they are greatly oppreſſed, and many times ruined in their Eſtates: For
+remedy thereof, Be it Enacted by the Authority aforeſaid, That if any
+<g ref="char:V">Ʋ</g>nder-Sheriff, Bayliff, Serjeant at Mace, or other Officer or Miniſter
+whatſoever, ſhall at any time or times hereafter, have in his or their
+Cuſtody, any perſon or per<g ref="char:EOLhyphen"/>ſons, by virtue or colour of any Writ,
+Proceſs, or other Warrant whatſoever, It ſhall not be lawful for ſuch
+Officer or Officers to convey or carry, or cauſe to be conveyed or carried,
+the ſaid perſon or perſons to any Tavern, Ale-houſe; or other Publick
+Victualling or Drinking houſe, without the free and voluntary conſent of
+the ſaid <pb n="4" facs="tcp:187888:4"/> 
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap> 
+                  <pb n="5" facs="tcp:187888:4"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap> 
+                  <pb n="6" facs="tcp:187888:5"/>perſon or perſons, ſo as to
+charge ſuch Priſoner with any Sum of Money for any Wine, Beer, Ale,
+Victuals, Tobacco, or any other things whatſoever, but what the ſaid
+perſon or perſons ſhall call for, of his, her, or their own accord; And
+ſhall not demand, take or receive, or cauſe to be demanded, taken or
+received, directly or indirectly, any other or greater Sum or Sums, then what
+by Law ought to be taken or demanded for ſuch Arreſt, Taking, or Wait<g ref="char:EOLhyphen"/>ing
+(until ſuch perſon or perſons ſhall have procured an Appearance, found
+Bail, agreed with his or their Adverſaries, or be ſent to the proper Goal
+belonging to the County, City, Town or Place where ſuch Arreſt or Taking
+ſhall be) nor take and exact any other Re<g ref="char:EOLhyphen"/>ward or Gratuity, for ſo keeping
+the ſaid perſon or perſons out of the Goal or Priſon, then what he,
+ſhe, or they ſhall or will, of his, her, or their own accord, voluntarily
+and freely give; Nor take nor receive any other or greater Sum or Sums for each
+nights Lodg<g ref="char:EOLhyphen"/>ing, or other expences, then what is reaſonable and fitting in
+ſuch caſes, or ſhall be ſo adjudged by the next Iuſtice of the Peace,
+or at the next Quarter Seſſions; And ſhall not cauſe or procure the
+ſaid perſon or perſons to pay for any other Wine, Beer, Ale, Victuals,
+Tobacco, or other things then what the ſaid perſon or perſons ſhall
+voluntarily, particularly, and freely call for.</p>
+               <p>And that every Vnder-Sheriff, Goaler, Keeper of Priſon or
+Goal, and every perſon or perſons whatſoever, to whoſe Cuſtody any
+per<g ref="char:EOLhyphen"/>ſon or perſons ſhall be delivered or committed, by virtue of any Writ
+of Proceſs, or any pretence whatſoever, ſhall permit and ſuffer the
+ſaid perſon or perſons, at his and their will and pleaſure, to ſend
+for, and have any Beer, Ale, Victuals, and other neceſſary food, where, and
+from whence they pleaſe; as alſo to have and uſe ſuch Bedding, Linen,
+and other things, as the ſaid perſon or perſons ſhall think fit,
+without any purloining, detaining or paying for the ſame, or any part
+thereof; nor ſhall demand, take or receive of the ſaid perſon or
+perſons, any other or greater Fee or Fees, whatſo<g ref="char:EOLhyphen"/>ever, for his or their
+Commitment, Releaſe, or Diſcharge, or for his, her, or their Chamber-rent,
+then what is allowable by Law, until the ſame ſhall be Settled by Three
+Iuſtices of the Peace, whereof one to be of the <hi>Quorum,</hi> of each
+particular County, City, and Town corporate, in their ſeveral Precincts; And
+for the City of <hi>London,</hi> and Counties of <hi>Middleſex</hi> and
+<hi>Surrey,</hi> the Two Lords Chief Iuſtices of the <hi>Kings Bench</hi> and
+<hi>Common Pleas,</hi> and the Lord Chief Baron, or any two of them, and the
+Iuſtices of the Peace of the ſame, in their ſeveral Iuriſdictions.</p>
+               <p>And likewiſe that the ſaid Lords Chief Iuſtices, Lord
+Chief Ba<g ref="char:EOLhyphen"/>ron, and Iuſtices of the Peace in their ſeveral Iuriſdictions,
+and all Commiſſioners for Charitable <g ref="char:V">Ʋ</g>ſes, do uſe their beſt
+endeavours and diligence to examine and find out the ſeveral Legacies, Gifts
+and Bequeſts beſtowed and given for the Benefit and Advantage of the poor
+priſoners for Debt, in the ſeveral Goals and Priſons in this Kingdom, and
+to ſend for any Deeds, Wills, Writings, and Books of Accompts whatſoever,
+and any perſon or perſons concerned therein, and to Examine them upon Oath,
+to make true Diſcovery thereof, (which they have full Power and Authority
+hereby to do) and the ſame ſo found out and aſcertained, to Order and
+Settle in ſome manner and way, that the Priſoners hereafter may not be
+defrauded, but receive the full Benefit thereof, according to the true intent
+of the Donors.</p>
+               <pb n="7" facs="tcp:187888:5"/>
+               <p>And that theſe Accounts of the ſeveral Legacies, Gifts and
+Be<g ref="char:EOLhyphen"/>queſts given and beſtowed upon the ſeveral Priſoners for Debt
+with<g ref="char:EOLhyphen"/>in this Kingdom, and the ſeveral Rates of Fees, and the future
+Go<g ref="char:EOLhyphen"/>vernment of Priſons, be Signed and Confirmed by the Lord Chief Iuſtices,
+and Lord Chief Baron, or any two of them for the time being, and the Iuſtices
+of the Peace in <hi>London, Middleſex,</hi> and <hi>Surrey,</hi> and by the
+Iudges for the ſeveral Circuits, and Iuſtices of the Peace for the time
+being, in their ſeveral Precincts, and fairly written, and hung up in a Table
+in every Goal and Priſon, before the Firſt day of <hi>November,</hi> One
+thouſand fix hundred ſeventy and one, and likewiſe be Regiſtred by each
+and every Clerk of the Peace within his or their particular Iurisdiction; And
+after ſuch Eſtabliſhment, no other greater Fee or Fees then ſhall be
+ſo Eſtabliſhed, ſhall be demanded or received.</p>
+               <p>And whereas it is become the common practice of Goalers and
+Keepers of <hi>Newgate,</hi> the <hi>Gatehouſe</hi> at
+<hi>Weſtminſter,</hi> and ſundry other Goals and Priſons, to Lodge
+together in one Room or Chamber and Bed, Priſoners for Debt, and Felons,
+whereby many times ho<g ref="char:EOLhyphen"/>neſt Gentlemen, Tradeſmen and others, Priſoners for
+Debt, are diſturbed and hindred in the Night-time from their natural Reſt,
+by reaſon of their Fetters and Irons, and otherwiſe much offended and
+troubled by their lewd and prophane Language and Diſcourſes, with moſt
+horrid Curſing and Swearing (much accuſtomed to ſuch per<g ref="char:EOLhyphen"/>ſons) Be it
+Enacted by the Authority aforeſaid, That it ſhall not be lawful hereafter
+for any Sheriff, Goaler or Keeper of Goal or Priſon, to put, keep or lodge
+Priſoners for Debt and Felons together in one Room or Chamber; but that they
+ſhall be put, kept and lodged ſepa<g ref="char:EOLhyphen"/>rate and apart one from another, in
+diſtinct Rooms, upon pain that he, ſhe or they which ſhall offend
+againſt this Act, or the true intent and meaning thereof, or any part
+thereof, ſhall forfeit and loſe his or her Office, Place or Employment, and
+ſhall forfeit treble Damages to the Party grieved, to be recovered by virtue
+of this Act; Any Law, Statute, Vſage, or Cuſtom to the contrary in any
+wiſe notwith<g ref="char:EOLhyphen"/>ſtanding.</p>
+            </div>
+            <div type="Act">
+               <pb n="8" facs="tcp:187888:6"/>
+               <head>Anno XXX. CAROLI II. REGIS. An Act for the further Relief and Diſcharge of
+Poor Diſtreſſed Priſoners for Debt.</head>
+               <p>
+                  <seg rend="decorInit">W</seg>Hereas by an Act of this preſent Parliament, made in the Two
+and twentieth and Three and twentieth years of the Reign of our Sovereign Lord
+King <hi>Charles</hi> the Second (In ituled, <hi>An Act for Relief and
+Releaſe of Poor Diſtreſſed Priſoners for Debt</hi>) Proviſion hath
+been made for Relief and Releaſe of ſuch Pri<g ref="char:EOLhyphen"/>ſoners as were in Priſon
+for Debt or Damages upon the Fourteenth day of <hi>April,</hi> One thouſand
+ſix hundred ſeventy and one, in ſuch way and manner as in the ſaid Act
+is provided and declared; Notwithſtanding which, the perſons of ſuch
+Priſoners have not been diſcharged of their Impriſonments, the words
+<hi>Debt</hi> or <hi>Damages</hi> mentioned in the ſaid Act, being
+conſtrued doubtful, as not Warranting the Diſcharge of any Priſoner,
+unleſs Charged in Execution.</p>
+               <p>For Explanation whereof, and to ſupply other Defects which
+have obſtructed the good ends and purpoſes of the ſaid Act, Be it now
+Enacted by the Kings moſt Excellent Majeſty, by and with the Ad<g ref="char:EOLhyphen"/>vice and
+Conſent of the Lords Spiritual and Temporal, and the Commons in this
+preſent Parliament Aſſembled, and by the Autho<g ref="char:EOLhyphen"/>rity of the ſame, That
+all perſons being in Priſon upon the Nine and twentieth day of
+<hi>May,</hi> One thouſand ſix hundred ſeventy and eight, being the
+Anniverſary day of His Majeſties Birth and happy Reſtauration, for Debt
+or Damages, or for or upon any Action or Actions, or upon any Mean-Proceſs
+for Debt, Account or Treſpaſs upon the Caſe, which Actions by
+Proſecution of Law may be Iudg<g ref="char:EOLhyphen"/>ments for Debt or Damages, or who have
+Iudgments entred upon Record againſt them, or are Charged in Execution, or
+Impriſoned upon Attachments for Debt, or upon Outlawries before or after
+Iudgment for Debts, or upon any other Proceſs whatſoever iſſuing out of
+any Court of Law or Equity, for the Cauſe of Debt or Da<g ref="char:EOLhyphen"/>mages, or Coſts
+only, whether the ſaid perſons were in Priſon up<g ref="char:EOLhyphen"/>on the ſaid Fourteenth
+day of <hi>April,</hi> One thouſand ſix hundred ſeventy and one, and have
+taken the Oath in the ſaid Act mentioned, or have been Committed to Priſon
+ſince that time, who ſhall take the Oath in the ſaid recited Act
+mentioned, ſhall and may be Releaſed and Diſcharged from their
+Impriſonments, in ſuch way and manner as ſuch as were in Priſon for
+Debt or Damages upon the ſaid Four<g ref="char:EOLhyphen"/>teenth day of <hi>April,</hi> One
+thouſand ſix hundred ſeventy and one, by the former Act were or might
+have been, in caſe the ſaid Debt and Da<g ref="char:EOLhyphen"/>mages had been aſcertained by
+Iudgment.</p>
+               <p>And all Iuſtices of the Peace within their ſeveral Counties
+and Diviſions, are hereby Authorized and Impowered to put in Execu<g ref="char:EOLhyphen"/>tion
+<pb n="9" facs="tcp:187888:6"/>all ſuch Powers, Directions and Authorities, for the full
+Re<g ref="char:EOLhyphen"/>leaſe and Diſcharge of ſuch perſons as were in Priſon on the
+ſaid Fourteenth day of <hi>April,</hi> One thouſand ſix hundred ſeventy
+and one, as aforeſaid, and of all ſuch other perſons as have been ſince
+that time committed to Priſon, and are in Priſon on the ſaid Nine and
+twentieth day of <hi>May,</hi> as aforeſaid, as the ſaid former Act hath
+made and provided for the Releaſe and Diſcharge of ſuch who were in
+Priſon for Debt or Damages upon the ſaid Fourteenth day of <hi>April,</hi>
+One thouſand ſix hundred ſeventy and one, and every Clauſe, Mat<g ref="char:EOLhyphen"/>ter and
+Thing in the ſaid former Act contained, ſhall be conſtrued and taken to
+the benefit and advantage of ſuch as ſhall be in Priſon upon the ſaid
+Nine and twentieth day of <hi>May,</hi> One thouſand ſix hun<g ref="char:EOLhyphen"/>dred ſeventy
+and eight, as fully and amply as by the ſaid Act it ought to have been, for
+the Benefit and Diſcharge of ſuch as were in Pri<g ref="char:EOLhyphen"/>ſon on the ſaid
+Fourteenth day of <hi>April,</hi> One thouſand ſix hundred ſe<g ref="char:EOLhyphen"/>venty and
+one.</p>
+               <p>And whereas by the ſaid former Act it is provided, That if any
+Creditor ſhall inſiſt to have his Debtor continued in Priſon after he
+hath taken the ſaid Oath, and will allow him a weekly Mainten<g ref="char:EOLhyphen"/>ance to be
+appointed by the Iuſtices of the Peace, not exceeding Eighteen pence the
+week, the ſame Priſoner ſhall continue and be detained in Priſon: Be it
+now Enacted by the Authority aforeſaid, That ſuch weekly Allowance ſhall
+be paid to the Priſoner himſelf, and not to the Goal-keeper, or any other
+perſon for him; and it with<g ref="char:EOLhyphen"/>in the ſpace of Three Months after ſuch
+weekly Allowance by any Creditor, no Eſtate of the Priſoner ſhall be
+diſcovered or made out before Two Iuſtices of the Peace of that County and
+Diviſion where the ſaid Priſoner is kept in Priſon, then the ſaid
+Priſoner ſhall forthwith be diſcharged by Warrant under the Hands and
+Seals of any Two Iuſtices of the Peace of the ſame County and Diviſion
+where the ſaid Priſoner ſhall be ſo in Priſon, to the Keeper of
+ſuch Priſon in that behalf directed, as fully and amply as if ſuch
+Priſoner had been Diſcharged by the Iuſtices of the Peace at their
+Quarter Seſſions, as in the ſaid recited Act is mentioned; and that then
+and from thenceforth the ſaid weekly Allowance ſhall ceaſe and determine,
+as if the ſame had never been made.</p>
+               <p>And all Priſoners by this preſent Act, or by the ſaid
+former Act Freed and Diſcharged from their Impriſonments, are hereby
+Ac<g ref="char:EOLhyphen"/>quitted and Diſcharged of and from the payment of Chamber-Rent, and all
+and every other Fee and Fees due to the Goaler or Keeper of ſuch Priſon or
+Priſons in any manner or wiſe.</p>
+               <p>And be it further Enacted by the Authority aforeſaid, That no
+Pri<g ref="char:EOLhyphen"/>ſoner Diſcharged out of Priſon by virtue of this preſent Act, or by
+vir<g ref="char:EOLhyphen"/>tue of the ſaid recited Act, ſhall at any time hereafter be
+Impriſon<g ref="char:EOLhyphen"/>ed for or by reaſon of any Debt or Damages, or any Sum or Sums of
+Money contracted or grown due to, or recovered by any perſon or perſons at
+whoſe Suit the ſaid Priſoner did then ſtand Charged in any Priſon, or
+any other perſon or perſons to whom ſuch Priſoner did give notice under
+the Hand and Seal of ſome Iuſtice of the Peace of the ſame County, City
+or Place, the ſpace of Fourty days before the time of his Diſcharge, of his
+intention to receive the be<g ref="char:EOLhyphen"/>nefit of this Act, and of the way and courſe he
+intended to take for obtaining the ſame, before the time of their
+Diſcharges, as afore<g ref="char:EOLhyphen"/>ſaid; But that upon any Arreſt for ſuch Debt,
+Damages, or Sums of Money, it ſhall or may be lawful for them, ſhewing a
+Duplicate <pb n="8" facs="tcp:187888:7"/> 
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap> 
+                  <pb n="9" facs="tcp:187888:7"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap> 
+                  <pb n="10" facs="tcp:187888:8"/>of their Diſcharge under the Hands
+and Seals of the Iuſtices of the Peace by whom they were Diſcharged, or of
+any Two of them, or of ſuch Iuſtices of the Peace, in caſe ſuch
+Priſoner be Diſcharged after an allowance of Maintenance by the Creditor
+for Three Mouths, as aforeſaid, which the ſaid Iuſtices are hereby
+required to give to every Priſoner ſo by them Diſcharged, to retain an
+At<g ref="char:EOLhyphen"/>torney to appear for them, and File Common Bail to every ſuch Action, and
+Plead thereunto; ſo that the Plaintiff, if he pleaſe, may recover, and
+enter Iudgment againſt ſuch Priſoner, to be executed and levied upon the
+Lands, Tenements, Goods and Chattels of ſuch Priſoner ſo Diſcharged, as
+aforeſaid, his or her Wearing Ap<g ref="char:EOLhyphen"/>parel, Furniture for his or her Dwelling
+houſe, the ſaid Furniture not exceeding Ten pounds in value, and
+neceſſary Tools for his or her Trade and Occupation only excepied, but not
+upon the per<g ref="char:EOLhyphen"/>ſon of the Priſoner, the perſons of ſuch Priſoners being
+hereby for ever Freed and Diſcharged from Impriſonment for any Debt,
+Treſ<g ref="char:EOLhyphen"/>paſs upon the Caſe, Duty, Sum or Sums of Money, or thing thereunto
+relating, Contracted or due before the time of their Diſ<g ref="char:EOLhyphen"/>charge, having had
+notice, as aforeſaid.</p>
+               <p>And be it Enacted by the Authority aforeſaid, That in caſe
+any Sheriff, Goaler, and Keeper of Priſon ſhall refuſe and delay to bring
+and Diſcharge, and ſet at Liberty any Priſoner or Priſoners, ac<g ref="char:EOLhyphen"/>cording
+to the Order of the Iuſtice or Iuſtices of the Peace, made in purſuance
+of this Act, or of the ſaid former recited Act: Every ſuch Goaler, Sheriff,
+or Keeper of Priſon, ſhall forfeit and pay to ſuch Priſoners ſo
+detained contrary to ſuch Order, the Sum of Twenty pounds, to be recovered by
+Action of Debt in any of His Majeſties Courts of Record, and ſhall alſo
+be ſubject to ſuch Fine and Puniſh<g ref="char:EOLhyphen"/>ment as the ſaid Iuſtices of the
+Peace ſhall upon complaint thereof to them made Order and Award.</p>
+               <p>And be it further Enacted by the Authority aforeſaid, That
+upon any Action of Eſcape, or other Suit brought or to be brought againſt
+any Iuſtice of the Peace, Sheriff, Goaler or Keeper of Priſon, for any
+thing done in obedience to this Act, it ſhall and may be lawful to and for
+any ſuch Iuſtice of the Peace, Sheriff, Goaler and Keeper of Pri<g ref="char:EOLhyphen"/>ſon, to
+plead the General Iſſue, and give this Act in Evidence, which ſhall be a
+good and ſufficient Diſcharge, and ſhall ſave harmleſs every ſuch
+Iuſtice of the Peace, Sheriff, Goaler or Keeper of Priſon plead<g ref="char:EOLhyphen"/>ing the
+ſame; And if the Plaintiff in any ſuch Action ſhall be Non<g ref="char:EOLhyphen"/>ſuited, or
+Verdict paſs againſt him, the Defendant ſhall have double Coſts, to be
+Taxed by the Court where ſuch Action is brought.</p>
+               <p>Provided always, and be it Enacted, That the Diſcharge of any
+verſon or perſons by virtue of this Act, ſhall not amount unto, or be
+conſtrued to Free or Diſcharge any other perſon or perſons joyntly or
+ſeverally bound for, or liable to anſwer or ſatisfie the ſaid Debt, or
+any part thereof, either as Principal or Surety, but that ſuch other perſon
+or perſons ſhall be liable to anſwer the ſaid Debt and Dama<g ref="char:EOLhyphen"/>ges in
+ſuch manner, to all intents and purpoſes, as they were before the
+Diſcharge of ſuch Priſoner.</p>
+               <p>Provided alſo, That no perſon ſhall be Diſcharged by
+this Act, that hath not, or ſhall not before ſuch Oath made, have remained
+in Priſon by the ſpace of Six months.</p>
+               <p>Provided alſo, That no perſon by virtue of this Act ſhall
+be Diſ<g ref="char:EOLhyphen"/>charged out of Priſon, who ſhall ſtand Charged in Execution with
+more then the Sum of Five hundred pounds to any one perſon, Prin<g ref="char:EOLhyphen"/>cipal Money,
+and Damages.</p>
+               <pb n="11" facs="tcp:187888:8"/>
+               <p>Provided alſo, That no Creditor inſiſting to have his
+Debtor con<g ref="char:EOLhyphen"/>tinued in Priſon, ſhall be bound to make any Weekly Allowance
+for the Subſiſtance of the Priſoner, where the Father, Mother, Son or
+Daughter, or other perſon who by the Laws of this Realm are bound to Maintain
+him in Diſcharge of the Pariſh, if he were at large, are of ſufficient
+Ability to Maintain ſuch Priſoner.</p>
+               <p>Provided alſo, and be it Enacted, That if any Creditor
+inſiſting to have his Debtor continued in Priſon, and Ordered to make
+Allow<g ref="char:EOLhyphen"/>ance towards his Maintenance, ſhall deſire to have his Debtor, being
+a perſon formerly uſing any Handicraft or Day-labour, removed to any
+publick Workhouſe, there to be kept at hard Labour, and ſhall within One
+week next after notice of ſuch Order for making Allow<g ref="char:EOLhyphen"/>ance, at his own proper
+Coſts and Charges, cauſe ſuch Priſoner by <hi>Habeas Corpus</hi> and
+Commitment, or other Order, to be removed to any publick Workhouſe in the
+ſame County where the ſaid Priſon is, or within Twenty miles diſtance
+of the ſaid Priſon, That then ſuch Priſoner ſo removed to the ſaid
+Workhouſe, ſhall and may be there held to Labour ſuitable to his Ability,
+and the Creditor or Cre<g ref="char:EOLhyphen"/>ditors ſhall-afterwards contribute towards his
+Maintenance, only ſuch Sum as over and above the profit of his Labour ſhall
+be requiſite to Maintain him, to be aſcertained by the two next Iuſtices
+of Peace; And in caſe the profit of his Labour ſhall exceed the value of
+his Maintenance, One moiety of the overplus ſhall go towards the pay<g ref="char:EOLhyphen"/>ment of
+his Debts for which he remains in Execution; the other Moiety ſhall be paid
+to the hauds of the ſaid Priſoner, the ſaid Moie<g ref="char:EOLhyphen"/>ties to be diſtributed
+accordingly by the two next Iuſtices of the Peace.</p>
+               <p>And be it further Enacted, That after any perſon ſhall by
+virtue of this Act have continued at any Workhouſe by the ſpace of Two
+years, he is then to be Diſcharged from his Impriſonment, and enjoy the
+full Benefit of this Law.</p>
+               <p>And be it Enacted, That any Iudge of ſuch Court whereto ſuch
+Debtor is a Priſoner, or the two next Iuſtices of the Peace to ſuch
+Workhouſe, ſhall and may have power to commit ſuch Debtor, being brought
+before him or them by <hi>Habeas Corpus,</hi> or Order under the Hands and
+Seals of two ſuch Iuſtices, unto any Workhouſe within the County where
+ſuch Priſon is, there to remain according to this Act.</p>
+               <p>Provided always, and be it Enacted, That if any Priſoner that
+ſhall be Releaſed by virtue of this Act, ſhall at any time afterwards be
+found or ſuſpected by any of his Creditors to have in ready Money, Goods or
+Chattels in his own hands and poſſeſſion, or in the hands of any
+others, to his or her uſe, or in Truſt for him or her, in value over and
+above what he or ſhe is allowed by this or the ſaid former Act to have,
+other then ſuch Goods in his Shop or Work-houſe as he ſhall have been
+Credited or Truſted with ſince the time of his Diſcharge, and for what he
+ſhall be really Indebted at the time of his making ſuch Oath, and he or
+ſhe will not or do not upon convenient Demand, pay his or her Debt or Debts
+therewith, as far as the ſame will reach, That then, and in ſuch caſe, at
+the Requeſt of any Creditor, the ſaid Oath ſhall be tendred to him or her
+again, by any Iuſtice of the Peace in this Act before Impowered to
+Adminiſter the ſaid Oath for Diſcharge or Priſoners, or by any Iudge of
+the Court wherein there is Iudg<g ref="char:EOLhyphen"/>ment againſt him, which he or ſhe
+refuſing to take, ſhall be Remanded to Priſon in Execution for ſuch
+Debt or Debts; Any thing in this Act to the contrary notwithſtanding.</p>
+               <pb n="12" facs="tcp:187888:9"/>
+               <p>Provided alſo, That this Act ſhall not extend to any
+perſon or per<g ref="char:EOLhyphen"/>ſons in Execution for any Fine on him or her Impoſed for
+any Offence committed before the ſaid Nine and twentieth day of <hi>May,</hi>
+One thou<g ref="char:EOLhyphen"/>ſand ſix hundred ſeventy and eight.</p>
+               <p>Provided that ſuch perſon or perſons as is or are detained
+in Pri<g ref="char:EOLhyphen"/>ſon upon any Mean Proceſs, if it ſhall be deſired by any
+Creditor, before any Iuſtice of the Peace to whom ſuch Priſoner hath
+applied for his Diſcharge, ſhall forthwith give a Warrant to ſome
+Attorney to Appear, or File common Bail for him or them, in the Court out of
+which the ſaid Mean-Proceſs Iſſued, and to receive a Declaration at the
+Plaintiffs Suit, and that ſuch Priſoner ſhall thereupon have the full
+Benefit of this Law, as to the Liberty of his Perſon, againſt his ſaid
+Impriſonment upon the ſaid Mean Proceſs, and againſt any Iudgment or
+Execution that ſhall be had againſt him in that Suit, and againſt any
+other Suit that ſhall be brought againſt him for the ſame Matter or
+Cauſe of Action, to all intents and purpoſes, as ful<g ref="char:EOLhyphen"/>ly and beneficially as
+if he had been Charged in Execution at the ſaid Plaintiffs Suit before the
+Nine and twentieth of <hi>May,</hi> One thouſand ſix hundred ſeventy and
+eight; but ſuch Priſoner upon Mean-Pro<g ref="char:EOLhyphen"/>ceſs, ſhall, in caſe of his
+refuſal to give ſuch Warrant of Attorney, loſe the whole Benefit of this
+Law.</p>
+               <p>Provided always, That no Merchant Stranger, or other Alien or
+Foreigner that hath been Arreſted, and is in Priſon on any Action or Suit,
+for or by reaſon of any Debt, or other Engagement Con<g ref="char:EOLhyphen"/>tracted or Entred into
+beyond the Seas, ſhall have any Benefit by this Act; but that all and every
+ſuch Merchant Stranger, or other Alien or Foreigner, ſhall and may be
+detained in Priſon, and proceed<g ref="char:EOLhyphen"/>ed againſt as it this Act had never been
+made.</p>
+               <p>Provided always, That no Priſoner ſhall be Diſcharged by
+virtue of this Act, until he ſhall before the Iuſtices of the Peace who are
+by this Act Impowered to Diſcharge him, Declare upon his Corporal Oath (which
+Oath the ſaid Iuſtices are hereby appointed to Adminiſter) what Effects
+are belonging to him, or what Debt or Debts are then ow<g ref="char:EOLhyphen"/>ing to him within any
+of His Majeſties Dominions, or elſewhere, and by whom, and for what
+Cauſe, and upon what Security; of all which a Schedule ſhall be made in the
+preſence of ſuch Iuſtices, and Sub<g ref="char:EOLhyphen"/>ſcribed by the Priſoner, and
+ſhall be by ſuch Iuſtices Returned to the next Seſſions, there to be
+kept for the better Information of the Cre<g ref="char:EOLhyphen"/>ditors of ſuch Priſoner, who, or
+ſuch of them as will joyn, may there<g ref="char:EOLhyphen"/>upon Sue for ſuch Debts, or ſo much
+thereof as will reaſonably ſa<g ref="char:EOLhyphen"/>tisfie them, in the name of the Priſoner,
+and after the ſame Reco<g ref="char:EOLhyphen"/>vered and Received, to render the overplus (their own
+Debts and Charges firſt deducted) to the Priſoner.</p>
+               <p>Provided always (and to deter all perſons who are by the
+Chari<g ref="char:EOLhyphen"/>table intention of this Act to be Relieved, from abuſing the Favour
+hereby to them intended) That if any perſon, who ſhall in purſuance of
+this Act take this Oath for any of the purpoſes hereby appointed, ſhall
+Forſwear or Perjure himſelf, Then ſuch perſon being thereof lawfully
+Convicted, ſhall beyond, and over and above the Penalties which may by the
+Law now in being be Indicted, ſuffer Impriſonment for the ſpace of Seven
+years, without Bail or Mainpriſe.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:187888:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
